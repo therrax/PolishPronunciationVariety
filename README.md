@@ -9,14 +9,14 @@ dotnet add package PolishPronunciationVariety --version 1.0.0
 ```
 
 
-## Metody rozszerzające typ string:
+## Metody rozszerzające
 
 Metoda  |   Opis    |   Zwracany typ
 --- | --- | ---
 GetCityLocative() | Pobiera miejscownik miasta  | string
 
 
-##### Example
+##### Przykład użycia
 ```
 var city = "Kołobrzeg";
 var wordVariety = city.GetCityLocative();
@@ -26,4 +26,4 @@ Console.WriteLine(wordVariety);
 
 ## ToDo
 
-- [x] Testy jednostkowe
+- [] Testy jednostkowe
