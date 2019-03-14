@@ -14,7 +14,6 @@ dotnet add package PolishPronunciationVariety --version 1.0.1
 ```
 
 ## Metody rozszerzające
-
 Metoda  |   Parametry   |   Opis    |   Zwracany typ
 --- | --- | ---
 GetLocative() |  | Zamienia mianownik na miejscownik  | string
