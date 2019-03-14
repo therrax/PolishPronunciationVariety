@@ -26,4 +26,4 @@ Console.WriteLine(wordVariety);
 
 ## ToDo
 
-- [] Testy jednostkowe
+- [ ] Testy jednostkowe
