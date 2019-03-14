@@ -28,7 +28,11 @@ var wordVariety = city.GetCityLocative();
 Console.WriteLine(wordVariety);
 //Rezultat:  "Kołobrzegu"
 ```
-## Zgłaszanie miejscowości lub
+## Zgłaszanie błędów i brakujących nazw
+
+Proszę o zgłaszanie błędów i nazw miejscowości, które nie zostały rozpoznane.
+Razem możemy więcej :)
+
 ## ToDo
 
 - [ ] Testy jednostkowe
