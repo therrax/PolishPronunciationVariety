@@ -13,11 +13,13 @@ Zachęcam również do rozbudowy paczki :)
 dotnet add package PolishPronunciationVariety --version 1.0.1
 ```
 
+
 ## Metody rozszerzające
-Metoda  |   Parametry   |   Opis    |   Zwracany typ
---- | --- | ---
-GetLocative() |  | Zamienia mianownik na miejscownik  | string
-GetLocative() | GrammaticalCase case  | Zamienia mianownik na wskazany przypadek (dziala tylko miejscownik)  | GrammaticalResult
+| Metoda        | Parametry           | Opis                                      |Zwracany typ       |
+|:-------------:|:-------------------:|:-----------------------------------------:|:-----------------:|
+|GetLocative()  |                     |Zamienia mianownik na miejscownik          |   string          |
+|GetLocative()  |GrammaticalCase case |Zamienia mianownik na miejscownik          |GrammaticalResult  |
+
 
 ##### Przykład użycia
 ```
