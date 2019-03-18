@@ -74,5 +74,5 @@ Razem możemy więcej :)
 
 ## Zmiany
 
-v1.0.1 - Rule builder - miejsce do tworzenia nowych zasad, metody rozpoznające dwa słowa, dodane nowe zasady, uporządkowany kod, usunięcie metody GetCityLocative(), dodany GrammaticalResult, dzięki któremu dowiesz się czy końcówka została rozpoznana - flaga IsUpdated będzie równa true.
-v1.0.1 - Świeża wersja, dużo do poprawki
+- v1.0.1 - Rule builder - miejsce do tworzenia nowych zasad, metody rozpoznające dwa słowa, dodane nowe zasady, uporządkowany kod, usunięcie metody GetCityLocative(), dodany GrammaticalResult, dzięki któremu dowiesz się czy końcówka została rozpoznana - flaga IsUpdated będzie równa true.
+- v1.0.0 - Świeża wersja, dużo do poprawki
