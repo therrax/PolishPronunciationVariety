@@ -2,8 +2,8 @@
 
 ## O paczce
 
-Na potrzeby własnego projektu stworzyłem paczkę, którą chce się z Wami podzielić. Dzięki tej paczce odmienisz nazwę polskiej miejscowości na miejscownik (z mianownika), w moim przypadku przydała mi się do pozycjonowania serwisu.
-Zachęcam również do rozbudowy paczki :)
+Na potrzeby własnego projektu stworzyłem paczkę, którą chce się z Wami podzielić. Dzięki tej paczce odmienisz np. nazwę polskiej miejscowości na miejscownik (z mianownika), w moim przypadku przydała mi się do pozycjonowania serwisu.
+Zachęcam do rozbudowy paczki o nowe przypadki (obecnie jest tylko mianownik->miejscownik) :)
 
 ## Instalacja
 
